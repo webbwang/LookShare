@@ -1,0 +1,1 @@
+Nov.10 around: We can already use the environment GNOME installed on Micro SD.
