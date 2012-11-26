@@ -1,1 +1,3 @@
 Nov.10 around: We can already use the environment GNOME installed on Micro SD.
+Nov.25: we found that our initial SDcard system is just a test system, so I have to boot a new one. After insulting the Steven, I have boot the ubuntu system. And test tomorrow.
+
