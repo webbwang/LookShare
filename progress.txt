@@ -1,4 +1,5 @@
 Nov.10 around: We can already use the environment GNOME installed on Micro SD.
 Nov.25: we found that our initial SDcard system is just a test system, so I have to boot a new one. After insulting the Steven, I have boot the ubuntu system. And test tomorrow.
 Nov 26: successfully boot the ubuntu 12.04 system(take some time to figure who to make ethernet and static ip correctly), with lxde desktop. Seems working speed of this system is slow. Then I will figure out if it can compile programming successfully.
+Dec 13: the environment works well and it can compile using XLDE-environment, we are now mainly focus on bluetooth setting. It seems strange since iphone's developer has forbidden the function of file transfer between iphone and ubuntu. Only by using app installed by iphone can solve. But it can not be the solution. So we have to move on. What's more, bluetooth dongle seems can not work on beagle board. We do not know why.
 
